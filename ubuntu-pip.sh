@@ -9,6 +9,6 @@
 
 # Latest version from http://www.pip-installer.org/en/latest/installing.html#install-or-upgrade-pip
 wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py
-python get-pip.py
+sudo python get-pip.py
 
 
