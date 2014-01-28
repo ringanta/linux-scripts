@@ -5,3 +5,8 @@
 
 sudo add-apt-repository -y ppa:saltstack/ppa
 sudo apt-get update
+
+# To install salt-master
+# sudo apt-get -y install salt-master
+# To install salt-client
+# sudo apt-get -y install salt-client
