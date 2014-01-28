@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Added saltstack repository to repo list and update cache
+# Based on http://docs.saltstack.com/topics/installation/ubuntu.html
+
+sudo add-apt-repository -y ppa:saltstack/ppa
+sudo apt-get update
